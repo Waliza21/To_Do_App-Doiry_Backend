@@ -1,0 +1,1 @@
+This is the backend for the To-Do web application that connects the frontend with MongoDB database. Till now the database is only connected to the web application.
