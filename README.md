@@ -1,1 +1,1 @@
-This is the backend for the To-Do web application that connects the frontend with MongoDB database. Till now the database is only connected to the web application.
+This is the backend for the To-Do web and mobile application that connects the frontend with MongoDB database. The database is now succesfully connected to the To-Do web application as well as Doiry mobile application.
